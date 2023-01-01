@@ -1,0 +1,167 @@
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.dll.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.AssemblyInfoInputs.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.AssemblyInfo.cs
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\NUnit3.TestAdapter.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\NUnit3.TestAdapter.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\nunit.engine.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\nunit.engine.api.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\TestProject.dll.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\TestProject.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\TestProject.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Castle.Core.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Net.Http.Formatting.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Moq.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\nunit.framework.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Threading.Tasks.Extensions.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Contract.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Models.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Repository.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\WebActivatorEx.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Mvc.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Optimization.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.Cors.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\NLog.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Owin.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Web.Infrastructure.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Razor.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Razor.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Cors.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Deployment.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\TokenAuth.dll.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Models.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Mvc.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Optimization.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.Cors.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\NLog.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Razor.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Razor.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Deployment.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Cors.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Cors.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\NUnit3.TestAdapter.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\NUnit3.TestAdapter.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\nunit.engine.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\nunit.engine.api.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\TestProject.dll.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\TestProject.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\TestProject.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Castle.Core.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Net.Http.Formatting.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Moq.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\nunit.framework.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Threading.Tasks.Extensions.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Models.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Repository.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\WebActivatorEx.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\FluentValidation.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Mvc.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Optimization.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\FluentValidation.WebApi.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.Cors.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\NLog.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Owin.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Web.Infrastructure.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Cors.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Razor.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Razor.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\FluentValidation.ValidatorAttribute.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Cors.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Deployment.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\TokenAuth.dll.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Models.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\FluentValidation.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Mvc.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Optimization.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\FluentValidation.WebApi.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.Cors.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\NLog.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Http.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Ninject.Web.Common.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Microsoft.Owin.Cors.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Razor.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.Razor.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\System.Web.WebPages.Deployment.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.dll.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.AssemblyInfoInputs.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.AssemblyInfo.cs
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Service.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\TestProject1\bin\Debug\net45\Service.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\TestProject1\obj\Debug\net45\TestProject.pdb

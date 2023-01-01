@@ -1,0 +1,453 @@
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll.config
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe.config
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\csc.rsp
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\csi.exe
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\csi.rsp
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe.config
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.rsp
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Contract.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Models.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\NLog.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Owin.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Repository.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Cors.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Http.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\WebActivatorEx.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.Core.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\WebGrease.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Models.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\NLog.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Http.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\csc.rsp
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\csi.exe
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\csi.rsp
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.rsp
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Contract.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Models.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\NLog.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Owin.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Repository.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Cors.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Http.Cors.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Http.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\WebActivatorEx.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.Core.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\WebGrease.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Models.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\NLog.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Http.Cors.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Http.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\csc.rsp
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\csi.exe
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\csi.rsp
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.rsp
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Models.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\NLog.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Owin.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Cors.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Http.Cors.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Http.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\WebActivatorEx.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.Core.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\WebGrease.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Models.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\NLog.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Http.Cors.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Http.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\FluentValidation.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\FluentValidation.ValidatorAttribute.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\FluentValidation.WebApi.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.ValueTuple.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\FluentValidation.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\FluentValidation.WebApi.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\System.ValueTuple.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Service.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Service.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Repository.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\bin\Repository.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll.config
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\TokenAuth.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\TokenAuth.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\csc.exe.config
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\csc.rsp
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\csi.exe
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\csi.rsp
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.exe.config
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\vbc.rsp
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\EntityFramework.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\FluentValidation.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\FluentValidation.ValidatorAttribute.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\FluentValidation.WebApi.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Models.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\NLog.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Owin.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Service.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.ValueTuple.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Cors.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Http.Cors.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Http.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\WebActivatorEx.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.Core.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\WebGrease.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Repository.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Models.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Service.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\EntityFramework.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\FluentValidation.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\FluentValidation.WebApi.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\NLog.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.ValueTuple.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Http.Cors.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Helpers.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Http.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Mvc.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Optimization.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.Razor.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\WebApi.OutputCache.V2.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\bin\Repository.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.AssemblyReference.cache
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\obj\Debug\PizzaWebApp.csproj.CopyComplete
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\PizzaWebApp\obj\Debug\TokenAuth.pdb

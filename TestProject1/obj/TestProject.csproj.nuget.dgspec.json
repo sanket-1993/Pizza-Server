@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\TestProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj",
+        "projectName": "PizzaWebApp",
+        "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj"
+              },
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Service\\Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Service\\Service.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Service\\Service.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Models\\Models.csproj"
+              },
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj"
+              },
+              "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

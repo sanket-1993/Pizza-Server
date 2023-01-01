@@ -1,0 +1,120 @@
+2022/04/19 15:38:00.077 |  Inside nonPizza/item/6
+2022/04/19 15:38:00.175 |  inside NonPizzaService/GetNonPizzaByID/6
+2022/04/19 22:18:29.947 |  Inside pizza/getPizza
+2022/04/19 22:18:33.608 |  Inside PizzaService/GetPizza
+2022/04/19 22:24:28.827 |  Inside pizza/getPizza
+2022/04/19 22:24:28.918 |  Inside PizzaService/GetPizza
+2022/04/19 22:25:47.249 |  Inside pizza/getPizza
+2022/04/19 22:25:47.387 |  Inside PizzaService/GetPizza
+2022/04/19 22:26:39.611 |  Exception in Pizza/GetPizza: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[Models.Order]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Size', line 2, position 11.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Repository.PizzaContext.GetOffer() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\DBContext\DBContextUtil.cs:line 468
+   at Repository.PizzaContext.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\DBContext\DBContextUtil.cs:line 18
+   at Repository.PizzaService.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Service\PizzaService.cs:line 21 
+    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Repository.PizzaContext.GetOffer() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\DBContext\DBContextUtil.cs:line 468
+   at Repository.PizzaContext.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\DBContext\DBContextUtil.cs:line 18
+   at Repository.PizzaService.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Service\PizzaService.cs:line 21
+2022/04/19 22:26:39.704 |  Exception in pizza/getPizza: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[Models.Order]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Size', line 2, position 11.
+   at Repository.PizzaService.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Service\PizzaService.cs:line 27
+   at PizzaWebApp.Controllers.PizzaController.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\Controllers\PizzaController.cs:line 37 
+    at Repository.PizzaService.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Service\PizzaService.cs:line 27
+   at PizzaWebApp.Controllers.PizzaController.GetPizza() in C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\PizzaWebApp\Controllers\PizzaController.cs:line 37
+2022/04/19 22:38:36.751 |  Inside pizza/getPizza
+2022/04/19 22:38:36.839 |  Inside PizzaService/GetPizza
+2022/04/19 22:39:31.654 |  Inside pizza/getPizza
+2022/04/19 22:39:31.654 |  Inside PizzaService/GetPizza
+2022/04/19 22:39:52.701 |  Inside nonPizza/item
+2022/04/19 22:39:52.701 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 22:40:00.776 |  Inside pizza/gettoppings
+2022/04/19 22:40:00.776 |  Inside PizzaService/GetToppings
+2022/04/19 22:40:00.815 |  Inside pizza/getSpecificPizza
+2022/04/19 22:40:00.815 |  Inside pizza/getSizeAndCrust
+2022/04/19 22:40:00.824 |  Inside PizzaService/GetPizzaByID/1
+2022/04/19 22:40:00.824 |  Inside PizzaService/GetSizeAndCrust/1
+2022/04/19 22:40:14.935 |  Inside pizza/getPizza
+2022/04/19 22:40:14.935 |  Inside PizzaService/GetPizza
+2022/04/19 22:40:14.935 |  Inside nonPizza/item
+2022/04/19 22:40:14.935 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 22:40:16.032 |  Inside pizza/gettoppings
+2022/04/19 22:40:16.053 |  Inside PizzaService/GetToppings
+2022/04/19 22:40:16.055 |  Inside pizza/getSizeAndCrust
+2022/04/19 22:40:16.055 |  Inside PizzaService/GetSizeAndCrust/2
+2022/04/19 22:40:16.055 |  Inside pizza/getSpecificPizza
+2022/04/19 22:40:16.055 |  Inside PizzaService/GetPizzaByID/2
+2022/04/19 22:40:17.636 |  Inside nonPizza/item
+2022/04/19 22:40:17.636 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 22:40:17.636 |  Inside pizza/getPizza
+2022/04/19 22:40:17.636 |  Inside PizzaService/GetPizza
+2022/04/19 23:47:32.387 |  Inside pizza/getPizza
+2022/04/19 23:47:32.436 |  Inside PizzaService/GetPizza
+2022/04/19 23:49:14.004 |  Inside pizza/getPizza
+2022/04/19 23:49:14.004 |  Inside PizzaService/GetPizza
+2022/04/19 23:50:23.122 |  Inside pizza/getPizza
+2022/04/19 23:50:23.126 |  Inside PizzaService/GetPizza
+2022/04/19 23:50:23.126 |  Inside nonPizza/item
+2022/04/19 23:50:23.126 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 23:50:25.244 |  Inside pizza/gettoppings
+2022/04/19 23:50:25.254 |  Inside PizzaService/GetToppings
+2022/04/19 23:50:25.280 |  Inside pizza/getSizeAndCrust
+2022/04/19 23:50:25.282 |  Inside pizza/getSpecificPizza
+2022/04/19 23:50:25.282 |  Inside PizzaService/GetPizzaByID/2
+2022/04/19 23:50:25.282 |  Inside PizzaService/GetSizeAndCrust/2
+2022/04/19 23:50:54.173 |  Inside nonPizza/item
+2022/04/19 23:50:54.173 |  Inside pizza/getPizza
+2022/04/19 23:50:54.173 |  Inside PizzaService/GetPizza
+2022/04/19 23:50:54.173 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 23:50:55.262 |  Inside pizza/getSpecificPizza
+2022/04/19 23:50:55.262 |  Inside PizzaService/GetPizzaByID/1
+2022/04/19 23:50:55.262 |  Inside pizza/getSizeAndCrust
+2022/04/19 23:50:55.262 |  Inside pizza/gettoppings
+2022/04/19 23:50:55.273 |  Inside PizzaService/GetToppings
+2022/04/19 23:50:55.273 |  Inside PizzaService/GetSizeAndCrust/1
+2022/04/19 23:50:57.702 |  Inside pizza/getPizza
+2022/04/19 23:50:57.704 |  Inside PizzaService/GetPizza
+2022/04/19 23:50:57.702 |  Inside nonPizza/item
+2022/04/19 23:50:57.704 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 23:50:59.220 |  Inside pizza/gettoppings
+2022/04/19 23:50:59.220 |  Inside PizzaService/GetToppings
+2022/04/19 23:50:59.220 |  Inside pizza/getSpecificPizza
+2022/04/19 23:50:59.220 |  Inside PizzaService/GetPizzaByID/2
+2022/04/19 23:50:59.220 |  Inside pizza/getSizeAndCrust
+2022/04/19 23:50:59.220 |  Inside PizzaService/GetSizeAndCrust/2
+2022/04/19 23:51:00.419 |  Inside order/placeOrder
+2022/04/19 23:51:00.419 |  inside OrderService/PlaceOrder
+2022/04/19 23:51:00.583 |  Inside nonPizza/item
+2022/04/19 23:51:00.583 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 23:51:00.583 |  Inside pizza/getPizza
+2022/04/19 23:51:00.583 |  Inside PizzaService/GetPizza
+2022/04/19 23:56:07.445 |  Inside nonPizza/item
+2022/04/19 23:56:07.445 |  Inside pizza/getPizza
+2022/04/19 23:56:07.491 |  inside NonPizzaService/GetNonPizzaItems
+2022/04/19 23:56:07.491 |  Inside PizzaService/GetPizza
+2022/04/19 23:56:09.231 |  Inside pizza/gettoppings
+2022/04/19 23:56:09.231 |  Inside PizzaService/GetToppings
+2022/04/19 23:56:09.271 |  Inside pizza/getSpecificPizza
+2022/04/19 23:56:09.271 |  Inside pizza/getSizeAndCrust
+2022/04/19 23:56:09.271 |  Inside PizzaService/GetPizzaByID/2
+2022/04/19 23:56:09.271 |  Inside PizzaService/GetSizeAndCrust/2
+2022/04/19 23:56:41.687 |  Inside order/placeOrder
+2022/04/19 23:56:41.692 |  inside OrderService/PlaceOrder
+2022/04/19 23:56:41.947 |  Inside nonPizza/item
+2022/04/19 23:56:41.947 |  Inside pizza/getPizza
+2022/04/19 23:56:41.957 |  Inside PizzaService/GetPizza
+2022/04/19 23:56:41.957 |  inside NonPizzaService/GetNonPizzaItems

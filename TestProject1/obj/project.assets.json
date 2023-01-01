@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "PizzaWebApp/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Models": "1.0.0",
+          "Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaWebApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaWebApp.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Models": "1.0.0",
+          "Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "PizzaWebApp/1.0.0": {
+      "type": "project",
+      "path": "../PizzaWebApp/PizzaWebApp.csproj",
+      "msbuildProject": "../PizzaWebApp/PizzaWebApp.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "PizzaWebApp >= 1.0.0",
+      "Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sanke\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\TestProject.csproj",
+      "projectName": "TestProject",
+      "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\TestProject.csproj",
+      "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\TestProject1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "projectReferences": {
+            "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj": {
+              "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj"
+            },
+            "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\sanke\\Downloads\\Assigment Correction-20221211T234133Z-001\\Assigment Correction\\PizzaWebService\\Repository\\Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "targetAlias": "net45",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

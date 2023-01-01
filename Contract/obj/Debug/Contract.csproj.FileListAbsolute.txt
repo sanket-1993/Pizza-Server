@@ -1,0 +1,36 @@
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\bin\Debug\Models.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\obj\Debug\Contract.csproj.CopyComplete
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\obj\Debug\Contract.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Contract\obj\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\bin\Debug\Models.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\obj\Debug\Contract.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\obj\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Contract\obj\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\bin\Debug\Models.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\obj\Debug\Contract.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\obj\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Contract\obj\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\bin\Debug\Models.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\obj\Debug\Contract.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\obj\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Contract\obj\Debug\Contract.pdb

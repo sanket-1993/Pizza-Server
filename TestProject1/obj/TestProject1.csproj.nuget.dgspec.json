@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj",
+        "projectName": "PizzaWebApp",
+        "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj"
+              },
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\ssalunkhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ssalunkhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\PizzaWebApp\\PizzaWebApp.csproj"
+              },
+              "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ssalunkhe\\3D Objects\\Sanket\\PizzaWebService\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

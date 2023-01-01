@@ -1,0 +1,65 @@
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\bin\Debug\Repository.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\bin\Debug\Repository.pdb
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\bin\Debug\Models.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\obj\Debug\Repository.dll
+C:\Users\ssalunkhe\source\repos\TokenAuth\Repository\obj\Debug\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Repository.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Models.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\obj\Debug\Repository.dll
+C:\Users\ssalunkhe\3D Objects\PizzaWebService\Repository\obj\Debug\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Repository.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Contract.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Models.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Contract.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\obj\Debug\Repository.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\obj\Debug\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\NLog.dll
+C:\Users\ssalunkhe\3D Objects\Sanket\PizzaWebService\Repository\bin\Debug\NLog.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\Repository.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\Repository.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\Models.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\NLog.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\Models.pdb
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\bin\Debug\NLog.xml
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\obj\Debug\Repository.dll
+C:\Users\ssalunkhe\3D Objects\assignement backup\PizzaWebService\Repository\obj\Debug\Repository.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\Repository.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\Repository.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\Models.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\NLog.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\Models.pdb
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\bin\Debug\NLog.xml
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\obj\Debug\Repository.dll
+C:\Users\sanke\Downloads\Assigment Correction-20221211T234133Z-001\Assigment Correction\PizzaWebService\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,468 @@
+[{
+    "CrustSizeMappingID":1,
+    "PizzaID":1,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":99
+},
+{
+    "CrustSizeMappingID":2,
+    "PizzaID":1,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":129
+},
+{
+    "CrustSizeMappingID":3,
+    "PizzaID":1,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":174
+},
+{
+    "CrustSizeMappingID":4,
+    "PizzaID":1,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":199
+},
+{
+    "CrustSizeMappingID":5,
+    "PizzaID":1,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":298
+},
+{
+    "CrustSizeMappingID":6,
+    "PizzaID":1,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":329
+},
+{
+    "CrustSizeMappingID":7,
+    "PizzaID":1,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":399
+},
+{
+    "CrustSizeMappingID":8,
+    "PizzaID":1,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":498
+},
+{
+    "CrustSizeMappingID":9,
+    "PizzaID":1,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":429
+},
+{
+    "CrustSizeMappingID":10,
+    "PizzaID":2,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":109
+},
+{
+    "CrustSizeMappingID":11,
+    "PizzaID":2,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":139
+},
+{
+    "CrustSizeMappingID":12,
+    "PizzaID":2,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":184
+},
+{
+    "CrustSizeMappingID":13,
+    "PizzaID":2,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":209
+},
+{
+    "CrustSizeMappingID":14,
+    "PizzaID":2,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":308
+},
+{
+    "CrustSizeMappingID":15,
+    "PizzaID":2,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":339
+},
+{
+    "CrustSizeMappingID":16,
+    "PizzaID":2,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":399
+},
+{
+    "CrustSizeMappingID":17,
+    "PizzaID":1,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":498
+},
+{
+    "CrustSizeMappingID":18,
+    "PizzaID":2,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":429
+},
+{
+    "CrustSizeMappingID":19,
+    "PizzaID":3,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":199
+},
+{
+    "CrustSizeMappingID":20,
+    "PizzaID":3,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":149
+},
+{
+    "CrustSizeMappingID":21,
+    "PizzaID":3,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":194
+},
+{
+    "CrustSizeMappingID":22,
+    "PizzaID":3,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":219
+},
+{
+    "CrustSizeMappingID":23,
+    "PizzaID":3,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":318
+},
+{
+    "CrustSizeMappingID":24,
+    "PizzaID":3,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":349
+},
+{
+    "CrustSizeMappingID":25,
+    "PizzaID":3,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":419
+},
+{
+    "CrustSizeMappingID":26,
+    "PizzaID":3,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":519
+},
+{
+    "CrustSizeMappingID":27,
+    "PizzaID":3,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":499
+},
+{
+    "CrustSizeMappingID":28,
+    "PizzaID":4,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":129
+},
+{
+    "CrustSizeMappingID":29,
+    "PizzaID":4,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":159
+},
+{
+    "CrustSizeMappingID":30,
+    "PizzaID":4,
+    "Size":{
+        "ID": 1,
+        "Name":"Regular"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":204
+},
+{
+    "CrustSizeMappingID":31,
+    "PizzaID":4,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":229
+},
+{
+    "CrustSizeMappingID":32,
+    "PizzaID":4,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":328
+},
+{
+    "CrustSizeMappingID":33,
+    "PizzaID":4,
+    "Size":{
+        "ID": 2,
+        "Name":"Medium"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":359
+},
+{
+    "CrustSizeMappingID":34,
+    "PizzaID":4,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":1,
+        "Name":"New Hand Tossed"
+    },
+    "Price":419
+},
+{
+    "CrustSizeMappingID":35,
+    "PizzaID":4,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":2,
+        "Name":"Cheese Burst"
+    },
+    "Price":518
+},
+{
+    "CrustSizeMappingID":36,
+    "PizzaID":4,
+    "Size":{
+        "ID": 3,
+        "Name":"Large"
+    },
+    "Crust":{
+        "ID":3,
+        "Name":"Fresh Pan Pizza"
+    },
+    "Price":459
+}]
